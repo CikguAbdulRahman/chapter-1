@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="mN*j{4{whl/TjUK0qq{t" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="Ou.)RhMlS;xH=}O|Gc~s"><value name="text"><shadow type="text" id="Yk}K-w`b|tr$4[sDt,Xp"><field name="TEXT">SALAM SEMUA</field></shadow></value><next><block type="basic_show_icon" id="%bI,F[WkhW+X(x31yr=Z"><field name="i">IconNames.Heart</field><next><block type="basic_show_icon" id="O50C@/6,C|dL0tv0FsNg"><field name="i">IconNames.SmallHeart</field><next><block type="device_pause" id="52mAljm$%z]J^pHQx|;K"><value name="pause"><shadow type="timePicker" id="9WZs.|[[:K/+;FMuO3i*"><field name="ms">200</field></shadow></value><next><block type="basic_show_icon" id="Xyyv6l]!1xZolQFZhb6s"><field name="i">IconNames.Heart</field><next><block type="basic_show_icon" id="oov=q4KO}f~}.40M_^1m"><field name="i">IconNames.SmallHeart</field><next><block type="device_pause" id="=t^h_@pICcxKT9!8i3q]"><value name="pause"><shadow type="timePicker" id="C8~K#HOAJ[u:092eb8,b"><field name="ms">200</field></shadow></value><next><block type="basic_show_icon" id="V9NO68:vZ#J(P!zi[?7r"><field name="i">IconNames.Heart</field><next><block type="device_show_leds" id="[F8w0tohCIaH5g(zn%6a"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
